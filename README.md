@@ -1,24 +1,53 @@
-# Sprint 6 — Noções básicas de Banco de Dados 🗄️🐝
+# 🗄️ Sprint 6 — Database Fundamentals (Chicago Taxi Analysis)
 
-## 📝 Descrição do Projeto
+## 📝 Project Overview
 
-Neste sprint, o foco foi trabalhar com logs e banco de dados para um aplicativo de táxi. O objetivo principal: analisar logs, identificar erros, organizar registros e realizar consultas no banco de dados `chicago_taxi`. ✅
+In this sprint, the focus was on working with logs and database analysis for a taxi application.
 
-## 🎯 Objetivos do Sprint
+The main goal was to analyze system logs, identify errors, organize records, and perform SQL queries on the `chicago_taxi` database.
 
-- 🔍 Identificar solicitações específicas no console via IP  
-- 🗂️ Organizar logs de erros em arquivos separados (400.txt, 500.txt)  
-- 🧮 Realizar consultas SQL para análise de táxis, empresas e corridas  
-- 🌦️ Verificar condições meteorológicas e coeficientes de corridas  
-- 📊 Gerar relatórios com resultados das tarefas  
+---
 
-## 📂 Links das Planilhas / Documentos
+## 🎯 Sprint Objectives
 
-Todos os resultados das tarefas estão na planilha / documento do Google Docs:  
-📄 [Acesse aqui](https://docs.google.com/document/d/1Hzse5tBpS04wVKdhkj__G3mD_u0HgZEFLDoRSRVs61s/edit?usp=sharing)
+- 🔍 Identify specific requests using IP logs  
+- 🗂️ Organize error logs into separate files (400.txt, 500.txt)  
+- 🧮 Execute SQL queries for taxis, companies, and trip analysis  
+- 🌦️ Analyze weather conditions and ride coefficients  
+- 📊 Generate reports based on data analysis tasks  
 
-Contém logs, SQL queries, tabelas resultantes e respostas para todas as tarefas do Sprint 6.
+---
 
-## ✅ Conclusão
+## 📂 Project Resources
 
-Sprint 6 concluído com análise completa de logs e consultas ao banco de dados, pronto para revisão. 🚀
+All results and documentation are available in the Google Docs file below:
+
+📄 https://docs.google.com/document/d/1Hzse5tBpS04wVKdhkj__G3mD_u0HgZEFLDoRSRVs61s/edit?usp=sharing
+
+This document includes:
+- Log analysis  
+- SQL queries  
+- Result tables  
+- Answers to all Sprint 6 tasks  
+
+---
+
+## 🧠 Key Skills Demonstrated
+
+- SQL queries and database analysis  
+- Log file processing  
+- Data organization and filtering  
+- Analytical thinking  
+- Basic data investigation for QA contexts  
+
+---
+
+## 🚀 Outcome
+
+This project demonstrates the ability to analyze system logs and perform structured database queries to support data-driven decisions in a QA/testing environment.
+
+---
+
+## ⭐ Author
+
+Fernanda Carneiro Alves — Junior QA Engineer
